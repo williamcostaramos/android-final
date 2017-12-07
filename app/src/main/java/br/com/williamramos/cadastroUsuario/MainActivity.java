@@ -1,4 +1,4 @@
-package br.com.adsnoobs.cadastroUsuario;
+package br.com.williamramos.cadastroUsuario;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;

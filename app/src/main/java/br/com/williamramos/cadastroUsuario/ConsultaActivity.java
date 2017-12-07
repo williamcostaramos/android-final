@@ -1,4 +1,4 @@
-package br.com.adsnoobs.cadastroUsuario;
+package br.com.williamramos.cadastroUsuario;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
@@ -14,9 +14,9 @@ public class ConsultaActivity extends AppCompatActivity implements View.OnClickL
 
     private ListView listViewUsuarios;
     private Button buttonFechar;
-    private UsuarioAdapter usuarioAdapter;
-    private ArrayList<Usuario> usuarios;
-    private Usuario usuarioEdicao;
+    private br.com.williamramos.cadastroUsuario.UsuarioAdapter usuarioAdapter;
+    private ArrayList<br.com.williamramos.cadastroUsuario.Usuario> usuarios;
+    private br.com.williamramos.cadastroUsuario.Usuario usuarioEdicao;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

@@ -1,4 +1,4 @@
-package br.com.adsnoobs.cadastroUsuario;
+package br.com.williamramos.cadastroUsuario;
 
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
