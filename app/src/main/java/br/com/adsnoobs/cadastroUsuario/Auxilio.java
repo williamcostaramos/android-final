@@ -1,4 +1,4 @@
-package br.com.adsnoobs.sqliteappexemplo;
+package br.com.adsnoobs.cadastroUsuario;
 
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;

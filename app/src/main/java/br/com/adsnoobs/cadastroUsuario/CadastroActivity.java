@@ -1,4 +1,4 @@
-package br.com.adsnoobs.sqliteappexemplo;
+package br.com.adsnoobs.cadastroUsuario;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -6,8 +6,6 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ImageView;
-
-import java.security.spec.ECField;
 
 public class CadastroActivity extends AppCompatActivity implements View.OnClickListener{
 
